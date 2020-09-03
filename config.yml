@@ -1,0 +1,22 @@
+#-------------[PolyaPvP]-------------#
+# Contact Info                       #
+# VK: https://vk.com/id191413228     #
+# Recreated for MCSpace project      #
+#------------------------------------#
+
+# Control the delay (in seconds) for how often a player can toggle PvP
+Toggle Delay: 180
+
+# Control whether pvp is enabled/disabled by default when a player joins
+PvP Enabled: true
+
+# Control if the name above a player's head should change color
+Do Color Change: true
+
+# Color for the player's name if PVP is enabled
+Enabled Color: '&c'
+
+# Color for the player's name if PVP is disabled
+Disabled Color: '&a'
+#Time for PVP
+PvPTimer: 10

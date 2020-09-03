@@ -1,0 +1,8 @@
+name: PolyaPvP
+version: 1.0
+main: ru.gorodilov.PolyaPvP.PolyaPvP
+commands:
+  pvp:
+    description: Toggle pvp enabled/disabled
+  pvpadm:
+    description: Admin command to enable/disable pvp
